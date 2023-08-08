@@ -7,10 +7,16 @@
 # Want to make a custom portal to impress your friends? Try [this script](https://github.com/FlippieHacks/EvilPortalGenerator) for a quick creation of your portal
 
 ## To run the scripts, you must have Git Bash installed. 
-Before first use, access the **directory** holding the *.sh files* (can be the same or different as the one holding the log.txt files). Basically, in **Git Bash** when you have the files downloaded, **do this**:
+Before first use, access the **directory** holding the *.sh files* (can be the same or different as the one holding the log.txt files). 
+
+Basically, in **Git Bash** when you have the files downloaded, **do this**:
+
 cd "PATH/TO/YOUR/FOLDER"
+
 chmod -x "Extract.sh"
+
 chmod -x "ExtractPasswords.sh"
+
 chmod -x "ExtractMails.sh"
 
 You can now **run** the scripts by using the **command** "./Extract.sh", "./ExtractPasswords.sh" or "./ExtractMails.sh"
